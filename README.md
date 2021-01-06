@@ -6,7 +6,7 @@ Exploring Simple Siamese Representation Learning [1]
 
 #### Attention
 
-Do not delete the folder "results"/"data" and and its subfolders or create them by yourself (This project doesn't private any code to create them)
+You need to create the folder "results"/"data" and its subfolders (referred to "config.yaml"). This project doesn't provide any code to create them.
 
 #### Setting
 
