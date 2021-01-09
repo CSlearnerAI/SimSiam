@@ -21,8 +21,23 @@ The settings of related parameters can be seen in “config.yaml”
 #### Tools
 
 - Python 3.8.3
-
 - Pytorch 1.7.1
+
+#### Operator
+
+You can modify the parameters in "config.yaml".
+
+- Training
+
+```shell
+python runs.py
+```
+
+- Linear evaluation
+
+```shell
+python runs.py --eval
+```
 
 #### Results of experiments
 
